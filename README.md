@@ -11,3 +11,6 @@
 技术挑战与解决：在项目中遇到的技术挑战包括前后端的有效交互和数据的安全传输，通过实施Token机制，成功解决了用户身份验证和数据安全问题。
 ![屏幕截图 2025-02-11 154214](https://github.com/user-attachments/assets/92f9a170-4743-493a-8425-ef16023d45f6)
 ![屏幕截图 2025-02-11 154141](https://github.com/user-attachments/assets/086c9bfc-2f64-4ec3-82a6-3d85e975cf13)
+![image](https://github.com/user-attachments/assets/ff956f52-e1d6-429b-bf52-12306a9febca)
+![image](https://github.com/user-attachments/assets/3fe2c623-cf6a-4655-beb2-465bb914f997)
+![image](https://github.com/user-attachments/assets/c42d7214-5d9f-4117-a768-371d3e16fd54)
