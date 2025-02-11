@@ -1,5 +1,5 @@
 # Educational administration system
-一个简单的前端教务系统
+一个教务系统
 技术栈： Java, HTML, CSS, JavaScript, MySQL
 开发工具：IntelliJ IDEA, Visual Studio Code, DataGrip, Postman
 主要责任：
